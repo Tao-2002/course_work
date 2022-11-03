@@ -2,4 +2,4 @@
 define("HOST","localhost:3308");  
 define("USER","root");  
 define("PASS","");
-define("DBNAME","exam_name_02");
+define("DBNAME","exam");
