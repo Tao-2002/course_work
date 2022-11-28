@@ -2,4 +2,4 @@
 
 exp1:
 
-![image-20221127235949484](C:\Users\Wht\AppData\Roaming\Typora\typora-user-images\image-20221127235949484.png)
+![image](https://github.com/Tao-2002/course_work/blob/main/Img/exp1.png)
