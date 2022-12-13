@@ -2,4 +2,4 @@
 
 CG_supplement_2:
 
-![image-20221213180305750](C:\Users\Wht\AppData\Roaming\Typora\typora-user-images\image-20221213180305750.png)
+![supplement_2](https://github.com/Tao-2002/course_work/blob/main/Img/supplement_2.png)
