@@ -1,8 +1,8 @@
 # course_work
-to record my homework
+to record my homework in SZU
 
-CG:
+CG (Computer Graphic):
   cmake -B .
   
-DB:
+DB (Database System):
   wampserver-sql + php
